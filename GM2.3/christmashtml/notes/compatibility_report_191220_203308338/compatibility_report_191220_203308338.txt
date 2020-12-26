@@ -1,0 +1,161 @@
+Converting GML script: ${project_dir}\scripts\scr_A_SPECIAL_MESSAGE_FOR_YOU_GUYS\scr_A_SPECIAL_MESSAGE_FOR_YOU_GUYS.gml
+Converted description /// @description scr_A_SPECIAL_MESSAGE_FOR_YOU_GUYS()
+
+Converting GML script: ${project_dir}\scripts\scr_dummy\scr_dummy.gml
+Converted description /// @description scr_dummy()
+
+Converting GML script: ${project_dir}\scripts\scr_player_step\scr_player_step.gml
+Converted description /// @description scr_player_step()
+
+Converting GML script: ${project_dir}\scripts\scr_finish_step\scr_finish_step.gml
+Converted description /// @description scr_finish_step()
+
+Converting GML script: ${project_dir}\scripts\scr_special_step\scr_special_step.gml
+Converted description /// @description scr_special_step()
+
+Converting GML script: ${project_dir}\scripts\scr_transfer_tile\scr_transfer_tile.gml
+Converted description /// @description scr_transfer_tile(id)/// @param id
+
+Converting GML script: ${project_dir}\scripts\scr_tile_reaction\scr_tile_reaction.gml
+Converted description /// @description scr_tile_reaction(id)/// @param id
+
+Converting GML script: ${project_dir}\scripts\scr_set_border_color\scr_set_border_color.gml
+Converted description /// @description scr_set_border_color(col)/// @param col
+
+Converting GML script: ${project_dir}\scripts\scr_playsound\scr_playsound.gml
+Converted description /// @description scr_playsound(sndindex,loop)/// @param sndindex
+/// @param loop
+
+Converting GML script: ${project_dir}\scripts\scr_stopsound\scr_stopsound.gml
+Converted description /// @description scr_stopsound(index)/// @param index
+
+Converting GML script: ${project_dir}\scripts\scr_next_level\scr_next_level.gml
+Converted description /// @description scr_next_level()
+
+Converting GML script: ${project_dir}\scripts\scr_game_end\scr_game_end.gml
+Converted description /// @description scr_game_end()
+
+!!! Font fnt_text font family m5x7 is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_text\fnt_text.gms1.png
+Converting GML script: ${project_dir}\objects\obj_tile\Create_0.gml
+Converted description /// @description HOW ABOUT YOU CHECK THE FIRST SCRIPT INSTEAD? :)
+
+Converting GML script: ${project_dir}\objects\obj_tile\Alarm_0.gml
+Converted description /// @description set perform flag
+
+Converting GML script: ${project_dir}\objects\obj_tile\Step_0.gml
+Converted description /// @description execute the step script if can perform.
+
+Converting GML script: ${project_dir}\objects\obj_border\Create_0.gml
+Converted description /// @description set def. color
+
+Converting GML script: ${project_dir}\objects\obj_border\Step_0.gml
+Converted description /// @description do blendy things.
+
+Converting GML script: ${project_dir}\objects\obj_border\Draw_0.gml
+Converted description /// @description draw the border.
+
+Converting GML script: ${project_dir}\objects\obj_game_controller\Create_0.gml
+Converted description /// @description initialize variables and set gen timer.
+Converted string - line 18: "D:\SDKs\SCE\ORBIS SDKs\5.500\target\samples" -> "D:\\SDKs\\SCE\\ORBIS SDKs\\5.500\\target\\samples"
+
+Converting GML script: ${project_dir}\objects\obj_game_controller\Alarm_0.gml
+Converted description /// @description Generate the level.
+
+Converting GML script: ${project_dir}\objects\obj_game_controller\Step_1.gml
+Converted description /// @description Poll input.
+
+Converting GML script: ${project_dir}\objects\obj_game_controller\Step_0.gml
+Converted description /// @description time... (and lives)/// @param and lives
+
+Converting GML script: ${project_dir}\objects\obj_game_controller\Draw_0.gml
+Converted description /// @description Draw "HUD".
+
+Converting GML script: ${project_dir}\objects\obj_intro\Create_0.gml
+Converted description /// @description Initialize Variables.
+
+Converting GML script: ${project_dir}\objects\obj_intro\Alarm_2.gml
+Converted description /// @description center window.
+
+Converting GML script: ${project_dir}\objects\obj_intro\Alarm_0.gml
+Converted description /// @description reset 'advance'
+
+Converting GML script: ${project_dir}\objects\obj_intro\Step_0.gml
+Converted description /// @description Ease-in text.
+
+Converting GML script: ${project_dir}\objects\obj_intro\Other_62.gml
+Converted description /// @description do we have internet?
+
+Converting GML script: ${project_dir}\objects\obj_intro\Draw_0.gml
+Converted description /// @description typewriter draw.
+
+Converting GML script: ${project_dir}\objects\obj_death\Create_0.gml
+Converted description /// @description Initialize Variables.
+
+Converting GML script: ${project_dir}\objects\obj_death\Alarm_0.gml
+Converted description /// @description reset 'advance'
+
+Converting GML script: ${project_dir}\objects\obj_death\Step_0.gml
+Converted description /// @description Ease-in text.
+
+Converting GML script: ${project_dir}\objects\obj_death\Draw_0.gml
+Converted description /// @description typewriter draw.
+
+Converting GML script: ${project_dir}\objects\obj_seed_asker\Create_0.gml
+Converted description /// @description set kbd string to empty
+
+Converting GML script: ${project_dir}\objects\obj_seed_asker\Alarm_0.gml
+Converted description /// @description set characters for touch numbers.
+
+Converting GML script: ${project_dir}\objects\obj_seed_asker\Step_0.gml
+Converted description /// @description check seed
+
+Converting GML script: ${project_dir}\objects\obj_seed_asker\Draw_0.gml
+Converted description /// @description draw current seed.
+
+Converting GML script: ${project_dir}\objects\obj_results\Create_0.gml
+Converted description /// @description init results object.
+
+Converting GML script: ${project_dir}\objects\obj_results\Alarm_0.gml
+Converted description /// @description quit the game.
+
+Converting GML script: ${project_dir}\objects\obj_results\Step_0.gml
+Converted description /// @description report the result if needed.
+
+Converting GML script: ${project_dir}\objects\obj_results\Other_62.gml
+Converted description /// @description did we report the result fine?
+
+Converting GML script: ${project_dir}\objects\obj_results\Draw_0.gml
+Converted description /// @description draw the congratulations text.
+
+Converting GML script: ${project_dir}\objects\obj_touch_controls\Create_0.gml
+Converted description /// @description Initialize.
+
+Converting GML script: ${project_dir}\objects\obj_touch_controls\Step_1.gml
+Converted description /// @description update draw positions.
+
+Converting GML script: ${project_dir}\objects\obj_touch_controls\Step_0.gml
+Converted description /// @description check for input.
+
+Converting GML script: ${project_dir}\objects\obj_touch_controls\Draw_64.gml
+Converted description /// @description draw buttons.
+
+Converting GML script: ${project_dir}\objects\obj_touch_controls\Draw_0.gml
+Converted description /// @description Stub.
+
+Converting GML script: ${project_dir}\objects\obj_touch_number\Step_0.gml
+Converted description /// @description should we fill?
+
+Converting GML script: ${project_dir}\objects\obj_android_limbo\Draw_0.gml
+Converted description /// @description draw the 'safe to quit' text.
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_hurt' - setting to default audio group
+Missing audiogroup for sound: 'snd_powerup' - setting to default audio group
+Missing audiogroup for sound: 'snd_step' - setting to default audio group
+Missing audiogroup for sound: 'snd_summertime' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
